@@ -1,4 +1,4 @@
-# Name: Le
+# Le
 
 
 class Pet:
